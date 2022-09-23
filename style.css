@@ -1,0 +1,43 @@
+/*BACKGROUND DO SITE*/ 
+body{       
+    background-color: #4682B4;      /*COR DE FUNDO*/       
+}
+
+/*CONFIGURACOES GERAIS DA PAGINA*/
+div.pagina{    
+    margin: 40px 50px 30px 50px;        /*ESPACAMENTO EXTERNO*/
+    padding: 20px 50px 30px 50px;       /*ESPACAMENTO INTERNO*/
+    background-color: #F8F8FF;        /*COR DE FUNDO*/
+    border-radius: 15px;                /*COR DE FUNDO*/
+    font-family: 'Courier New', Courier, monospace;   /*TIPO DE FONTE DO TEXTO*/
+}
+
+/*CONFIGURACOES TITULOS DE NIVEL 1*/
+h1{
+    text-align: center;     /*ALINHAMENTO DO TEXTO*/ 
+    font-size: 24pt;        /*TAMANHO DO TEXTO*/
+}
+
+/*CONFIGURACOES TITULOS DE NIVEL 2*/
+h2{    
+    text-align: left;       /*ALINHAMENTO DO TEXTO*/
+    font-size: 20pt;        /*TAMANHO DO TEXTO*/
+}
+
+/*CONFIGURACOES TITULOS DE NIVEL 3*/
+h3{    
+    text-align: left;       /*ALINHAMENTO DO TEXTO*/
+    font-size: 18pt;        /*TAMANHO DO TEXTO*/
+}
+
+/*CONFIGURACOES DOS PARAGRAFOS*/
+p{
+    text-align: justify;    /*ALINHAMENTO DO TEXTO*/
+    text-indent: 30px;      /*RECUO NA PRIMEIRA LINHA DO TEXTO*/  
+    font-size: 14pt;        /*TAMANHO DO TEXTO*/
+}
+
+/*CONFIGURACOES LINHA DA TABELA*/
+tr{
+    text-indent: 30px;      /*RECUO NA PRIMEIRA LINHA DO TEXTO*/
+}
