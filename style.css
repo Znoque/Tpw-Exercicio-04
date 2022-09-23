@@ -37,6 +37,9 @@ p{
     font-size: 14pt;        /*TAMANHO DO TEXTO*/
 }
 
+a{text-decoration: none; color: coral;}
+a:hover{color: deeppink;}
+
 /*CONFIGURACOES LINHA DA TABELA*/
 tr{
     text-indent: 30px;      /*RECUO NA PRIMEIRA LINHA DO TEXTO*/
